@@ -1,2 +1,2 @@
 # dynamicJUnit5
-Tests dinamicos con JUnit5
+Tests dinámicos con JUnit5
